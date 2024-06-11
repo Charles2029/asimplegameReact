@@ -6,6 +6,7 @@ body {
   font-family: sans-serif;
   margin: 20px;
   padding: 0;
+  background-color: aquamarine;
 }
 
 h1 {
@@ -57,7 +58,7 @@ body {
 }
 
 .square {
-  background: #fff;
+  background:orange;
   border: 1px solid #999;
   float: left;
   font-size: 24px;
